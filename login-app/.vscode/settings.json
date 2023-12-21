@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "Visual Studio Light",
+  "editor.fontWeight": "normal",
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": false,
+  "editor.tabSize": 1,
+  "workbench.activityBar.visible": false,
+  "customPresentationMode.backup": {
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.fontWeight": "normal",
+    "window.zoomLevel": 4,
+    "editor.tabSize": 1
+  }
+}
